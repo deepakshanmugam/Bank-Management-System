@@ -1,2 +1,2 @@
 # Bank-Management-System
-PASSWORD TO LOGIN:login
+PASSWORD TO LOGIN: login
